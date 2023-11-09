@@ -383,6 +383,7 @@ p.trivia-title {
 .answer p {
     max-width: 500px;
     width: 100%;
+    padding: 25px;
 }
 .end {
     padding-top: 6rem
